@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CircleCode",
+      "request": "launch",
+      "mainClass": "main.java.hello.CircleCode",
+      "projectName": "2024_CodingLessons"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "main.java.hello.HelloWorld",
+      "projectName": "2024_CodingLessons"
+    },
+    {
+      "type": "java",
+      "name": "RadiusMachine",
+      "request": "launch",
+      "mainClass": "main.java.hello.RadiusMachine",
+      "projectName": "2024_CodingLessons"
+    },
+    {
+      "type": "java",
       "name": "Receipt",
       "request": "launch",
       "mainClass": "main.java.hello.Receipt",

@@ -1,5 +1,6 @@
 package main.java.hello;
 
+
 public class HelloWorld {
 
     public static void main(String[] varArgs) {
@@ -7,5 +8,5 @@ public class HelloWorld {
         System.out.println("What do we do next?");
 
     }
-
 }
+
