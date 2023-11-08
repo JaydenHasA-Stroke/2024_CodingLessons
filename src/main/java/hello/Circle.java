@@ -19,6 +19,12 @@ public class Circle {
         return (circleArea);
     }
 
+    public double circumference() {
+        double circleCircumference;
+        circleCircumference = 2 * PI * radius;
+        return (circleCircumference);
+    }
+
     public double getRadius() {
         return (radius);
     }

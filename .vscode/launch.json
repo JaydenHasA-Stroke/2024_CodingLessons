@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CircleArea",
+      "request": "launch",
+      "mainClass": "main.java.hello.CircleArea",
+      "projectName": "2024_CodingLessons"
+    },
+    {
+      "type": "java",
+      "name": "Circumference",
+      "request": "launch",
+      "mainClass": "main.java.hello.Circumference",
+      "projectName": "2024_CodingLessons"
+    },
+    {
+      "type": "java",
       "name": "CircleCode",
       "request": "launch",
       "mainClass": "main.java.hello.CircleCode",
