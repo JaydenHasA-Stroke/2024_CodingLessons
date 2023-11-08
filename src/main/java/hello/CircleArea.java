@@ -13,11 +13,13 @@ public class CircleArea {
         double radius = scanner.nextDouble();
         circle.setRadius(radius);
 
-        Circle circle2 = new Circle();
+
         System.out.println("Enter a Radius");
         radius = scanner.nextDouble();
-        circle2.setRadius(radius);
+        Circle circle2 = new Circle(radius);
+
 
         System.out.println("The area for circle 1 is " + circle.area() + " and circle 2 is " + circle2.area());
     }
+
 }

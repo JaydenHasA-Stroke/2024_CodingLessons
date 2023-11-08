@@ -9,6 +9,10 @@ public class Circle {
         radius = 1;
     }
 
+    public Circle(double radius) {
+        this.radius = radius;
+    }
+
     public void setRadius(double newRadius) {
         radius = newRadius;
     }

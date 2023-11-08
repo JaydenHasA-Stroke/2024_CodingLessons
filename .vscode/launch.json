@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TriangleMake",
+      "request": "launch",
+      "mainClass": "main.java.hello.TriangleMake",
+      "projectName": "2024_CodingLessons"
+    },
+    {
+      "type": "java",
       "name": "CircleArea",
       "request": "launch",
       "mainClass": "main.java.hello.CircleArea",
